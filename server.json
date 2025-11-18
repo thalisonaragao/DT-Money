@@ -16,13 +16,29 @@
       "price": 60,
       "createdAt": "2022-07-29T19:30:44.505Z"
     },
-     {
+    {
       "id": 3,
       "description": "Escola Aragão",
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Coxinha",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2025-11-18T17:57:53.700Z",
+      "id": 4
+    },
+    {
+      "description": "Java",
+      "price": 70,
+      "category": "Educação",
+      "type": "income",
+      "createdAt": "2025-11-18T17:58:22.125Z",
+      "id": 5
     }
   ]
 }
